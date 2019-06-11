@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 课程实体
- * @Author ylf
+ * @Author ylff
  * @Time 2019/2/19
  */
 public class Course implements Serializable {
